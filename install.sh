@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VENV_DIR=/app/.virtualenvs
+VENV_DIR=.virtualenvs
 
 echo "Making Virtual env"
 python3 -m venv $VENV_DIR/connectors
