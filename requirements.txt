@@ -1,1 +1,1 @@
-tap-adwords==1.11.2
+tap-adwords==1.13.0
