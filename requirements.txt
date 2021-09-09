@@ -1,0 +1,2 @@
+setuptools<=57.0.5
+googleads==17.0.0
