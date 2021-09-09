@@ -1,2 +1,2 @@
 # tap-adwords==1.13.0
-googleads==17.0.0
+googleads
