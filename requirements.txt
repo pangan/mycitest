@@ -1,2 +1,2 @@
-# tap-adwords==1.13.0
-googleads
+googleads==29.0.0
+tap-adwords==1.13.0
