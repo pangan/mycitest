@@ -1,1 +1,2 @@
 this is origin file
+added a new line
