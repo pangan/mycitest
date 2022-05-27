@@ -3,5 +3,7 @@ This is line by A2
 
 ----------
 
-This is added by B1
-This is added by B2
+- This is added by B1
+
+- This is added by B2
+     continue B2
